@@ -31,7 +31,7 @@
         "descripcion": "Rapero, cantante y compositor puertorriqueño, uno de los máximos exponentes del reguetón y la música latina urbana. Conocido por su estilo innovador y su capacidad para mezclar géneros como el trap, el reguetón y el dembow, ha logrado éxitos mundiales con canciones como Yo Perreo Sola, Dákiti y Mía. Su impacto cultural ha sido significativo, rompiendo barreras del idioma y la música latina en mercados globales.",
         "fecha": "2016",
         "signo": "Hombres",
-        "foto": "bad-bunny-1.jpg",
+        "foto": "img/bad-bunny-1.jpg",
         "fotos": ["bad-bunny-2.jpg","bad-bunny-3.jpg","bad-bunny-4.jpg"],
         "github": "https://github.com/angelafernandezs"
     },
