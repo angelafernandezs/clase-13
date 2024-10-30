@@ -47,7 +47,7 @@
     {
         "nombre": "Beyoncé",
         "descripcion": "Cantante, compositora y actriz estadounidense, considerada una de las artistas más influyentes de la música contemporánea. Inició su carrera como parte del grupo Destiny's Child y luego triunfó como solista con éxitos como Single Ladies, Crazy in Love y Formation. Beyoncé es conocida por su poderosa voz, coreografías impactantes y mensajes de empoderamiento. Ha ganado numerosos premios Grammy y es una defensora de causas sociales y políticas.",
-        "fecha": "1997 (Como Parte de Destiny´s Child)",
+        "fecha": "1997",
         "signo": "Mujeres",
         "foto":  "beyonce-1.jpg",
         "fotos": ["beyonce-2.jpg","beyonce-3.jpg","beyonce-4.jpg"],
