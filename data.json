@@ -4,7 +4,7 @@
         "descripcion": "Dúo musical estadounidense formado por Tyler Joseph y Josh Dun. Su música es una mezcla única de géneros como el rock alternativo, pop, electrónica y hip hop. Se destacan por sus letras introspectivas que abordan temas de salud mental, inseguridades y lucha personal. Su álbum más famoso, Blurryface (2015), los catapultó al estrellato con éxitos como Stressed Out y Ride. Sus conciertos son conocidos por la energía y la interacción con el público.",
         "fecha": "20O9",
         "signo": "Bandas",
-        "foto": "top-1.jpg",
+        "foto": "img/top-1.jpg",
         "fotos": ["top-2.jpg","top-3.jpg","top-4.jpg"],
         "github": "https://github.com/angelafernandezs"
     },
@@ -13,7 +13,7 @@
         "descripcion": "Cantautora estadounidense que comenzó en el country y evolucionó hacia el pop, indie y folk. Conocida por sus letras narrativas que reflejan experiencias personales, Swift ha lanzado éxitos globales como Love Story, Shake It Off y Blank Space. Su habilidad para reinventarse, pasando de álbumes como Fearless (2008) a 1989 (2014) y Folklore (2020), le ha ganado múltiples premios Grammy y un estatus icónico en la industria musical.",
         "fecha": "2006",
         "signo": "Mujeres",
-        "foto": "taylor-swift-1.jpg",
+        "foto": "img/taylor-swift-1.jpg",
         "fotos": ["taylor-swift-2.jpg","taylor-swift-3.jpg","taylor-swift-4.jpg"],
         "github": "https://github.com/angelafernandezs"
     },
@@ -22,7 +22,7 @@
         "descripcion": "Actriz y cantante estadounidense, inicialmente conocida por su papel en la serie Girl Meets World. Como artista musical, ha lanzado varios álbumes de pop con influencias R&B, destacándose por su estilo juvenil y su crecimiento artístico en canciones como Skin y Sue Me. Carpenter ha ido forjando una carrera musical sólida y en ascenso, mostrando su versatilidad tanto en la actuación como en la música.",
         "fecha": "2014",
         "signo": "Mujeres",
-        "foto": "sabrina-carpenter-1.jpg",
+        "foto": "img/sabrina-carpenter-1.jpg",
         "fotos": ["sabrina-carpenter-2.jpg","sabrina-carpenter-3.jpg","sabrina-carpenter-4.jpg"],
         "github": "https://github.com/angelafernandezs"
     },
@@ -40,7 +40,7 @@
         "descripcion": "Banda de rock británico-estadounidense formada en 1967. Conocidos por su sonido distintivo que mezcla rock, pop y folk, lograron un éxito masivo en los años 70 con álbumes como Rumours (1977), uno de los discos más vendidos de todos los tiempos. Canciones como Go Your Own Way y Dreams han perdurado como clásicos. Las tensiones internas de la banda y las relaciones complicadas entre sus miembros también son parte de su historia.",
         "fecha": "1967",
         "signo": "Bandas",
-        "foto": "fleet-1.jpg",
+        "foto": "img/fleet-1.jpg",
         "fotos": ["fleet-2.jpg","fleet-3.jpg","fleet-4.jpg"],
         "github": "https://github.com/angelafernandezs"
     },
@@ -49,7 +49,7 @@
         "descripcion": "Cantante, compositora y actriz estadounidense, considerada una de las artistas más influyentes de la música contemporánea. Inició su carrera como parte del grupo Destiny's Child y luego triunfó como solista con éxitos como Single Ladies, Crazy in Love y Formation. Beyoncé es conocida por su poderosa voz, coreografías impactantes y mensajes de empoderamiento. Ha ganado numerosos premios Grammy y es una defensora de causas sociales y políticas.",
         "fecha": "1997",
         "signo": "Mujeres",
-        "foto":  "beyonce-1.jpg",
+        "foto":  "img/beyonce-1.jpg",
         "fotos": ["beyonce-2.jpg","beyonce-3.jpg","beyonce-4.jpg"],
         "github": "https://github.com/angelafernandezs"
     },
@@ -58,7 +58,7 @@
         "descripcion": "Boy band británica-irlandesa formada en el programa The X Factor en 2010. El grupo, compuesto por Harry Styles, Niall Horan, Zayn Malik, Louis Tomlinson y Liam Payne, alcanzó un éxito global con hits como What Makes You Beautiful y Story of My Life. Su estilo pop y su imagen juvenil los convirtieron en íconos de la música adolescente durante los primeros años de la década de 2010, antes de su separación en 2016.",
         "fecha": "2010",
         "signo": "Bandas",
-        "foto": "one-direction-1.jpg",
+        "foto": "img/one-direction-1.jpg",
         "fotos": ["one-direction-2.jpg","one-direction-3.jpg","one-direction-4.jpg"],
         "github": "https://github.com/angelafernandezs"
     },
@@ -67,7 +67,7 @@
         "descripcion": " Cantante, compositora y bailarina colombiana, es una de las artistas latinas más exitosas y reconocidas a nivel mundial. Con su mezcla única de pop, rock, y ritmos latinos, ha lanzado éxitos como Hips Don’t Lie, Waka Waka y La Tortura. Shakira también es famosa por sus presentaciones en vivo llenas de energía y su capacidad para conectar con audiencias globales. Además, ha sido una embajadora cultural de la música latina en el mundo.",
         "fecha": "1990",
         "signo": "Mujeres",
-        "foto": "shakira-1.jpg",
+        "foto": "img/shakira-1.jpg",
         "fotos": ["shakira-2.jpg","shakira-3.jpg","shakira-4.jpg"],
         "github": "https://github.com/angelafernandezs"
     },
@@ -76,7 +76,7 @@
         "descripcion": "Cantante y compositora española, conocida por su fusión de flamenco con géneros contemporáneos como el reguetón, el trap y el pop. Alcanzó fama internacional con su álbum El Mal Querer (2018), donde mostró su innovador estilo visual y musical. Rosalía ha sido elogiada por su originalidad y su habilidad para mezclar la tradición con sonidos modernos, con éxitos como Malamente y Con Altura. Su influencia ha crecido rápidamente en la música global.",
         "fecha": "2013",
         "signo": "Mujeres",
-        "foto": "rosalia-1.jpg",
+        "foto": "img/rosalia-1.jpg",
         "fotos":["rosalia-2.jpg","rosalia-3.jpg","rosalia-4.jpg"],
         "github": "https://github.com/angelafernandezs"
     },
@@ -85,7 +85,7 @@
         "descripcion": "Banda de rock estadounidense formada en 1996, conocida por su combinación de rock alternativo, metal y música electrónica. Su álbum debut Hybrid Theory (2000) fue un éxito mundial con canciones como In the End y Crawling, que los colocó como referentes del nu metal. La banda abordó temas de angustia emocional y lucha personal en sus letras. Aunque su estilo evolucionó con el tiempo, su impacto sigue siendo fuerte tras la muerte de su vocalista, Chester Bennington, en 2017.",
         "fecha": "1996",
         "signo": "Bandas",
-        "foto": "linkin-1.jpg",
+        "foto": "img/linkin-1.jpg",
         "fotos": ["linkin-2.jpg","linkin-3.jpg","linkin-4.jpg"],
         "github": "https://github.com/angelafernandezs"
     },
@@ -94,7 +94,7 @@
         "descripcion": "Rapero, cantante y compositor español, conocido por su versatilidad y su capacidad para fusionar géneros como el rap, el reguetón, el flamenco y el pop. Comenzó en la escena del rap underground de Madrid como parte del grupo Agorazein, pero su carrera en solitario despegó con éxitos como Mala Mujer y Tú Me Dejaste de Querer. Su álbum El Madrileño (2021) lo consolidó como uno de los artistas más innovadores de la música en español, experimentando con sonidos tradicionales y contemporáneos.",
         "fecha": "2016",
         "signo": "Hombres",
-        "foto": "ctangana-1.jpg",
+        "foto": "img/ctangana-1.jpg",
         "fotos": ["ctangana-2.jpg","ctangana-3.jpg","ctangana-4.jpg"],
         "github": "https://github.com/angelafernandezs"
     },
@@ -103,7 +103,7 @@
         "descripcion": "Banda de rock británica formada en Mánchester en 1991 por los hermanos Liam y Noel Gallagher. Conocidos como uno de los grupos más influyentes del britpop de los 90, lograron fama mundial con su segundo álbum (What's the Story) Morning Glory? (1995), que incluye éxitos icónicos como Wonderwall y Don't Look Back in Anger. La dinámica de conflicto entre los hermanos Gallagher, combinada con su actitud provocadora y su sonido característico, los hizo legendarios. Aunque se separaron en 2009, su legado sigue siendo fuerte en la música rock.",
         "fecha": "1991",
         "signo": "Bandas",
-        "foto": "oasis-1.jpg",
+        "foto": "img/oasis-1.jpg",
         "fotos": ["oasis-2.jpg","oasis-3.jpg","oasis-4.jpg"],
         "github": "https://github.com/angelafernandezs"
     }
